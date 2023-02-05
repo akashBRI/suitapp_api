@@ -1,0 +1,11 @@
+{
+    "db_connection":
+      {
+        "DB_HOST_NAME":"13.71.68.178",
+        "DB_PORT":1450,
+        "DB_USER" :"sa",
+        "DB_PASSWORD": "SuitApps_mKingsOnline@123",
+        "DB_NAME": "UnifoodKyklm_TestApp",
+        "DB_CONNECTION_LIMIT": 100
+      }
+}
